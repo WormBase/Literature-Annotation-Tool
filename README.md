@@ -1,2 +1,2 @@
-GO-Annotation-Tool
+Literature-Annotation-Tool
 ==================
